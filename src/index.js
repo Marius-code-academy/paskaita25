@@ -1,7 +1,3 @@
-// https://golden-whispering-show.glitch.me
-// document.getElementById('add-product-navigation').addEventListener('click', () => {
-//   window.location.replace('./addProduct.html');
-// });
 const container = document.getElementById('container');
 
 function deleteProductFromHtml(id) {
